@@ -1,0 +1,23 @@
+.board {
+    display: flex;
+    height: 100vh;
+}
+
+.nav-bar {
+    background-color: brown;
+    width: 320px;
+}
+
+.content {
+    background-color: blue;
+    flex: 1;
+    overflow: scroll;
+    overflow-x: hidden;
+}
+
+.box {
+    width: 150px;
+    height: 160px;
+    background-color: blueviolet;
+    margin: 5px;
+}
