@@ -9,7 +9,6 @@
 }
 
 .content {
-    background-color: blue;
     flex: 1;
     overflow: scroll;
     overflow-x: hidden;
@@ -20,4 +19,25 @@
     height: 160px;
     background-color: blueviolet;
     margin: 5px;
+}
+
+.grid {
+    width: 1231px;
+    margin: 0 auto;
+}
+
+.nav-menu {
+    margin-top: 71px;
+    margin-bottom: 71px;
+}
+
+.vcard-row-1 {
+    display: flex;
+    height: 230px;
+    margin-bottom: 40px;
+}
+
+.vcard-row-2 {
+    display: flex;
+    height: 230px;
 }
