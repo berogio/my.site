@@ -21,6 +21,10 @@
     margin: 0 auto;
 }
 
+.nav-bar .nav-bar-grid .nav-bar-cover img:hover {
+    cursor: pointer;
+}
+
 .nav-bar .nav-bar-grid .nav-bar-menu {
     margin-top: 106px;
     color: rgb(255, 255, 255);
