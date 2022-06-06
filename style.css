@@ -53,11 +53,11 @@
 .nav-bar .nav-bar-grid .following {
     margin-top: 87px;
     color: #FFFFFF;
-    font-family: avenir_heavy;
 }
 
 .nav-bar .nav-bar-grid .following ul li {
-    margin-top: 21px;
+    margin-top: 29px;
+    font-family: avenir_heavy;
 }
 
 .nav-bar .nav-bar-grid .following ul li .avatar {
