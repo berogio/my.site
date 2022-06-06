@@ -4,8 +4,21 @@
 }
 
 .nav-bar {
-    background-color: brown;
+    background-color: #222222;
     width: 320px;
+    padding-top: 42px;
+}
+
+.nav-bar .nav-bar-grid {
+    width: 280px;
+    margin: 0 auto;
+}
+
+.nav-bar .nav-bar-grid .nav-bar-cover {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
 }
 
 .content {
