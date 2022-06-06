@@ -18,3 +18,8 @@ a {
     display: block;
     text-decoration: none;
 }
+
+button {
+    background-color: #ff2288;
+    color: #FFFFFF;
+}
