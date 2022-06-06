@@ -34,7 +34,6 @@
     width: 259px;
     height: 60px;
     font-family: avenir_medium;
-    ;
     border-radius: 12px;
     display: flex;
     align-items: center;
@@ -71,6 +70,25 @@
     overflow-x: hidden;
 }
 
+.content .grid .designers {
+    height: 500px;
+    background-color: #FAFAFA;
+    margin-top: 50px;
+}
+
+.content .grid .top-desginers-cover {
+    display: flex;
+    justify-content: space-between;
+    padding: 60px 150px;
+    font-family: avenir_heavy;
+}
+
+.content .grid .designers .users-info {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 50px;
+}
+
 .box {
     width: 150px;
     height: 160px;
@@ -79,7 +97,7 @@
 }
 
 .grid {
-    width: 1231px;
+    width: 1190px;
     margin: 0 auto;
 }
 
@@ -102,4 +120,16 @@
 .load-more-button {
     text-align: center;
     margin-top: 138px;
+}
+
+.board .grid .info {
+    margin-top: 50px;
+}
+
+.board .grid .info table {
+    width: 100%;
+}
+
+.board .grid .info table {
+    color: #000000;
 }
