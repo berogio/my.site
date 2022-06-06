@@ -21,6 +21,34 @@
     margin: 0 auto;
 }
 
+.nav-bar .nav-bar-grid .nav-bar-menu {
+    margin-top: 106px;
+    color: rgb(255, 255, 255);
+}
+
+.nav-bar .nav-bar-grid .nav-bar-menu ul li {
+    width: 259px;
+    height: 60px;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+}
+
+.nav-bar .nav-bar-grid .nav-bar-menu ul li:hover {
+    background-color: #ff2288;
+    cursor: pointer;
+}
+
+.nav-bar .nav-bar-grid .nav-bar-menu ul li .nav-bar-menu-icon {
+    margin-left: 30px;
+    margin-right: 10px;
+}
+
+.nav-bar .nav-bar-grid .following {
+    margin-top: 87px;
+    color: #FFFFFF;
+}
+
 .content {
     flex: 1;
     overflow: scroll;
