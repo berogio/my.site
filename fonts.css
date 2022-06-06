@@ -1,0 +1,26 @@
+@font-face{
+    font-family: avenir_medium;
+    src: url(../fonts/Avenir_Medium.ttf);
+}
+@font-face {
+    font-family: avenir_black;
+    src: url(../fonts/AvenirLTStd-Black.otf),
+        url(../fonts/AvenirLTStd-Black.woff)
+        url(../fonts/AvenirLTStd-Black.woff2)
+}
+@font-face {
+    font-family: avenir_book;
+    src: url(../fonts/AvenirLTStd-Book.otf),
+        url(../fonts/AvenirLTStd-Book.woff)
+        url(../fonts/AvenirLTStd-Book.woff2)
+}
+@font-face {
+    font-family: avenir_roman;
+    src: url(../fonts/AvenirLTStd-Roman.otf),
+        url(../fonts/AvenirLTStd-Roman.woff)
+        url(../fonts/AvenirLTStd-Roman.woff2)
+}
+@font-face {
+    font-family: avenir_heavy;
+    src: url(../fonts/Avenir_Heavy.ttf);
+}
