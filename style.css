@@ -133,3 +133,26 @@
 .board .grid .info table {
     color: #000000;
 }
+
+.board .grid .footer {
+    margin-top: 50px;
+    margin-bottom: 20px;
+    display: flex;
+}
+
+.board .grid .footer .facebook-icon:hover {
+    background-color: blue;
+}
+
+.board .grid .footer .instagram-icon {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.board .grid .footer .instagram-icon:hover {
+    background-color: blueviolet;
+}
+
+.board .grid .footer .watsapp-icon:hover {
+    background-color: chartreuse;
+}
