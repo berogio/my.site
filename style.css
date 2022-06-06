@@ -41,3 +41,8 @@
     display: flex;
     height: 230px;
 }
+
+.load-more-button {
+    text-align: center;
+    margin-top: 138px;
+}
