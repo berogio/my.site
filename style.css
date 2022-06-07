@@ -6,7 +6,7 @@
 .nav-bar {
     background-color: #222222;
     width: 320px;
-    padding-top: 42px;
+    padding-top: 20px;
 }
 
 .nav-bar .nav-bar-grid {
@@ -26,7 +26,7 @@
 }
 
 .nav-bar .nav-bar-grid .nav-bar-menu {
-    margin-top: 106px;
+    margin-top: 80px;
     color: rgb(255, 255, 255);
 }
 
@@ -142,6 +142,7 @@
 
 .board .grid .footer .facebook-icon:hover {
     background-color: blue;
+    cursor: pointer;
 }
 
 .board .grid .footer .instagram-icon {
@@ -151,8 +152,10 @@
 
 .board .grid .footer .instagram-icon:hover {
     background-color: blueviolet;
+    cursor: pointer;
 }
 
 .board .grid .footer .watsapp-icon:hover {
     background-color: chartreuse;
+    cursor: pointer;
 }

@@ -23,3 +23,7 @@ button {
     background-color: #ff2288;
     color: #FFFFFF;
 }
+
+button:hover {
+    opacity: 50%;
+}
