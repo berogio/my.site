@@ -124,6 +124,8 @@
 
 .board .grid .info {
     margin-top: 50px;
+    background-color: #FAFAFA;
+    padding: 10px;
 }
 
 .board .grid .info table {
